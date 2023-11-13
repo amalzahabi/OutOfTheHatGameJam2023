@@ -1,0 +1,2775 @@
+fileFormatVersion: 2
+guid: 539342518ab237a4d806b9f5fc499872
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swamp vines_0
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 4949
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafa6ece19381394abe916b9dc871ac6
+      internalID: -1076662623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_1
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 3788
+        width: 416
+        height: 1170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9cf96dd7989041af8a14d3ef7f46e
+      internalID: 1221873606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_2
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 4891
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f435dd8fda0c2084e968a8ec7b0c6de0
+      internalID: -1486352225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2866
+        width: 353
+        height: 1985
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213209868fb61d940aff3322eff8728a
+      internalID: -929916356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_4
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2794
+        width: 481
+        height: 2054
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a156251fb3de6b419184963de9c23a8
+      internalID: -92478312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_5
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 2900
+        width: 283
+        height: 1818
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fec490b9626511479005e7cf7e0bf1b
+      internalID: 15565529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_6
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 4476
+        width: 819
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b39eaa7946eb94f816dfa08598f4d1
+      internalID: 30529738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_7
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 4551
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081ebeba1a137ad4488e3a762fddfd3e
+      internalID: -1647920409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_8
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 4532
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4ca3c705087274ba73e50557fbc2b2
+      internalID: -1277329586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_9
+      rect:
+        serializedVersion: 2
+        x: 1878
+        y: 4474
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ede3386e7784604d8116e8836ed9919
+      internalID: 1813363564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_10
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 4474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35761e874f70f1f439773a6d208854d8
+      internalID: 945778662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_11
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 4474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff8bdabc1ae42d41949f892bf8b5cfe
+      internalID: 1237262304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_12
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 4474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306704baf1223ee4e81f528fa134f6fd
+      internalID: 1803642052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_13
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 4474
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1a8120dea7c84ab1a8baaf2fff45f
+      internalID: 606085215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_14
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 4474
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f867f95b4f9bffc4d9de7660446db82a
+      internalID: -707177574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_15
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 4172
+        width: 686
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381ba8c0024755b4cb6b5bdbb5e7905f
+      internalID: -133578272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_16
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 4261
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84af178b28c5a544baf980d64f4e00e6
+      internalID: 241496449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_17
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 4264
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1ab4ebcefe96478f104e9064eb2d6
+      internalID: -1524342223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_18
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 4261
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842931dea5937d347aa3da832344625e
+      internalID: 2097527995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_19
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 4264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2193b03524084f84b89d081fa06ac0cc
+      internalID: -379446355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_20
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 4232
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c3eae14645d2941be7531bb3af7f54
+      internalID: 1107882455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_21
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 4196
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96819e72f3275dd48b8c4348d48e9e94
+      internalID: 1978635743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_22
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 3397
+        width: 106
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe3a9ce0221e046bca7105c7460786
+      internalID: 1503519551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_23
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 4171
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14305b2999d3aa4c88b6d233dda21eb
+      internalID: 499991306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_24
+      rect:
+        serializedVersion: 2
+        x: 2519
+        y: 4171
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7412ed9c0d04f6478799d4e56811a58
+      internalID: 1857274113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_25
+      rect:
+        serializedVersion: 2
+        x: 2678
+        y: 4171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fbed65f6f684c4ba56f2402f531d25
+      internalID: 1517249953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_26
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 4139
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cad0437c1d05a545ba68dd5dc2cfd5b
+      internalID: -1625910252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_27
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 4086
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6fa84b9e25334bb727b06d084e538
+      internalID: 2034013431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_28
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 4068
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7220d7e008bff4db621b9444ccf51d
+      internalID: -387394947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_29
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 2609
+        width: 298
+        height: 1421
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121f311dc657604f906d43ecc8ab273
+      internalID: 1051081801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_30
+      rect:
+        serializedVersion: 2
+        x: 2407
+        y: 4020
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d48e4c8de9e60d499bb996edb6e9d72
+      internalID: 2045205643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_31
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 3979
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c6f23e501455946a4207498c4afbc8
+      internalID: 955721066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_32
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 3877
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc328ce64a99367448cb719f70a7844d
+      internalID: 416114920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_33
+      rect:
+        serializedVersion: 2
+        x: 2646
+        y: 3748
+        width: 577
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766119f52526ee48aa45c18cc3f555a
+      internalID: -1570891364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_34
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 3820
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba87c8f962e1c924e9348a6058aaf928
+      internalID: 10249834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_35
+      rect:
+        serializedVersion: 2
+        x: 3351
+        y: 3786
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1586a51dd6e7e458bd38fc15760a8a
+      internalID: -1443703067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_36
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3767
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62065e6a02b2a0a4e99151c7a821ce8e
+      internalID: -897918398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_37
+      rect:
+        serializedVersion: 2
+        x: 3110
+        y: 3739
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4577186c8f95545984c7881ec788aa
+      internalID: 1240830730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_38
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 3639
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928ce2e432ed19a4290ab483e133b339
+      internalID: 812674722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_39
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 3535
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a1d224928ebe54e81158560047df32
+      internalID: -515590428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_40
+      rect:
+        serializedVersion: 2
+        x: 2083
+        y: 3479
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020435737242134c85883150eb84f4d
+      internalID: -1428275841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_41
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3461
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206b42c85320914ca7398367ff1150f
+      internalID: 1085500362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_42
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1922
+        width: 228
+        height: 1555
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6958623df045fc48ad5fec27d478c4e
+      internalID: 929828264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_43
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 3386
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ebb95eeefc7849a504d8cf16e3f78
+      internalID: -1486993550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_44
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 3307
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05558a7f44333ea48b67f868c22857d7
+      internalID: -331477280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_45
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 3029
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb405cdd2068cf040b52583c1afcd0a6
+      internalID: -968463563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2964
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aacba91ad03d2468c7f254512e7b19
+      internalID: -678302655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_47
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 2966
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68742ea5c1f26b49a489c5c8b54e37d
+      internalID: -1131814850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_48
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 2891
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa122471c459721408912b6627a6bad0
+      internalID: 1322543093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_49
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2859
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683defc368bf9af4c923c3ff1fc01b37
+      internalID: -1700267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_50
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2836
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cde69add2d8024ab68877b4160cc57
+      internalID: -500207339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_51
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2795
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0f93329a027bf41bcfa72a7875390b
+      internalID: 307435087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_52
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 2708
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6085e110ebfb894b9332d7ea20f3c23
+      internalID: -1050857636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_53
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1712
+        width: 815
+        height: 907
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b6dde04de9c054aad830fb8ddc70e2
+      internalID: -723350655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_54
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 2613
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0f5089ee6e9814ca91871aeea6235a
+      internalID: -1285968150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_55
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 2615
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c68549e2f0e498489d98f646bbb7070
+      internalID: -2095042892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_56
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 2603
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d0df0baed906479c21d8d67466ac4
+      internalID: -637226351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_57
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2566
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611d87efcd750e49ac32c9769bec802
+      internalID: -1028996818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_58
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2360
+        width: 873
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6e22926dc7924a862d90e6ea58d3d
+      internalID: -147240306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_59
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2507
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c57bb1e9cd43eb44975ce84d98ed990
+      internalID: 1253160414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_60
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2439
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c17928f8aa196b4c94df770f4a304df
+      internalID: -10258427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_61
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 2347
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a18c93d8481f5468b6d3190df91680
+      internalID: 1401561052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_62
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 2278
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b16d5ec7440cf47b5120563c1e273d
+      internalID: -765968253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_63
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1908
+        width: 1330
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc73627cc8cbbf459e168f6dcd07cb8
+      internalID: 810120692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_64
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1988
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef76ad42c6f2b545a8f2dfaad7b6a34
+      internalID: -570901665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_65
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 1922
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ed40b43eb611e408c30a042437e054
+      internalID: -573470366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_66
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1915
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f8499773e76ad45a2e3a59c2c5fb93
+      internalID: 1429316020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1051b563ffe6ef34483daa3c81b7558f
+      internalID: 1461756142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_68
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaf9cb3b3769244b31328925447981
+      internalID: -322571566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_69
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 1797
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75f2bf851eacc44ead63ca7c43500bf
+      internalID: -503600378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_70
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1781
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325af02b794cb0c4c891bcc0545e6c1a
+      internalID: 2144529961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_71
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1791
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d8eea04d7f1b842888fe1cd18601cd
+      internalID: -1913851942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_72
+      rect:
+        serializedVersion: 2
+        x: 3063
+        y: 1013
+        width: 289
+        height: 776
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ec8a139f03944786291ca6ef10692
+      internalID: -2063572418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_73
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 1776
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be544a946994f1a48a0347ce34f22ae8
+      internalID: -1089132566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_74
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 1715
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872b85aa40f07c249a1bf0995d8439df
+      internalID: -86980524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_75
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 1708
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7d8414630fb5444be3a8bc50949102
+      internalID: -1542439902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_76
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1556
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a04e63eced1fc4597d7896d63dae32
+      internalID: -407331777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_77
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1559
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ef64cd0811adc4a9fba894e8b3a828
+      internalID: 776829103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_78
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1541
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c194fcc4e48814db4e611d9db89e2c
+      internalID: 900018744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_79
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 787
+        width: 778
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ccdc82209f2d249bfbab8aafbb6590
+      internalID: 931488362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_80
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1491
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed991dff563a5894cbddd685f8c8e032
+      internalID: -268034384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_81
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1483
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5311c90c2b393134a8737203c73d30bc
+      internalID: 152223541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 857
+        width: 685
+        height: 605
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c3d440f6b13b14e93298a3e55bb01e
+      internalID: -1205142176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_83
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 606
+        width: 237
+        height: 775
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7b9816aba5f14689121f12220dba0
+      internalID: -19363186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_84
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 1375
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d399bf5a072fb474cb3016530a4516b4
+      internalID: -1253474571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_85
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1125
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45adc23a3115a147b0bf91a01f1749d
+      internalID: -599027654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_86
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 1137
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49603bdb1a1291547a73c5d08be90f92
+      internalID: -489117258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_87
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 1030
+        width: 421
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4979b2ab90951654e9b7a170e0ba6206
+      internalID: 1942327877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_88
+      rect:
+        serializedVersion: 2
+        x: 2642
+        y: 1127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710a0252339e52f4393a2337f9443b61
+      internalID: 1544412208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_89
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1110
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248292c287f34e469293e9a7dd90145
+      internalID: -1664144863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_90
+      rect:
+        serializedVersion: 2
+        x: 3061
+        y: 1076
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6a27c0de0b244fb362732a312c8ca
+      internalID: 1218846416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_91
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1029
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c26e5e6e7b69a40b48a708377f5ad9
+      internalID: 1387475998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_92
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 1019
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ded7d12d3824f84986ba017e7762f74
+      internalID: 1227988971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_93
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1012
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054fcef67f8d22489abc99ebc00f531
+      internalID: -1937494901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_94
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1003
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352141eb4f48fb42ab10b327e331a3c
+      internalID: 129536399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_95
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 959
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e97d0242ad6434d945fad5537efc97
+      internalID: 1905268267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_96
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 948
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8596cb2d500a67341a7e1898a3d76a83
+      internalID: 157969954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_97
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 917
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0223956ce83b614f9dcbf8f77d75e60
+      internalID: -1921231375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_98
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 907
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfe7e4ad88fec047bfc61d2e627c920
+      internalID: 1470462086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_99
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 853
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796a73ad75e16884d8d7599812c53c9e
+      internalID: -643424660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_100
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 844
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f7f3d2f7e1c9b4f97fdf6ceb1721e9
+      internalID: -1312936578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_101
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 778
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d0a822ae822554591c3d238fc7b401
+      internalID: 1424908482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_102
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 722
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b59dc076c261d499db6045faf7afb4
+      internalID: -1786239570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_103
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 712
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d2bdff98bebfe4da8d927c5e0029a8
+      internalID: 818027372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_104
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 687
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc510bec9ee313942b6aaa5db4b8aa76
+      internalID: 715241307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_105
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 677
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a791f87524d9bde49a5c2dafe85b562a
+      internalID: 1226789451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_106
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 612
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9548def6ff7c7ce47a471d8f2ba94648
+      internalID: 515298851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_107
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 625
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b406d20259c1a6e408fff4feacdcf39b
+      internalID: -233279840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_108
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 612
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1189d9c8799254fb32b494a35d068a
+      internalID: 1516241702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_109
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 607
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89cd4ad0f351a74f8ff4077e92e2f8e
+      internalID: -476386606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_110
+      rect:
+        serializedVersion: 2
+        x: 2851
+        y: 615
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afecca7b894a100439a8e07705a81dbc
+      internalID: -815675347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_111
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 603
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8756c7cbeab29b498359b60f277bab1
+      internalID: 253071394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_112
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 167
+        width: 311
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05025704c510ef48b9fee912e2f0f67
+      internalID: -1990511576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_113
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 166
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970c68780f3fa8f43985535af11ebb13
+      internalID: -714302395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_114
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 154
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a18649f5e489a847b2cbd6be6169e00
+      internalID: -910123395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_115
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 144
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c237d33f99996894ebacd0fcd09abe31
+      internalID: -598973602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_116
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e70be79e62e74b88be2e89c1faff1
+      internalID: -321317852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_117
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddd8c7f01e2b42439aef5c6de73bd4c
+      internalID: -1363822639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_118
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 21
+        width: 107
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b732604c01e86045acb6a0662c7ee04
+      internalID: 1963264768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swamp vines_119
+      rect:
+        serializedVersion: 2
+        x: 3203
+        y: 66
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f170ace350204e445b588c7e93a2eb8c
+      internalID: 1340889366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      swamp vines_13: 606085215
+      swamp vines_23: 499991306
+      swamp vines_9: 1813363564
+      swamp vines_27: 2034013431
+      swamp vines_44: -331477280
+      swamp vines_30: 2045205643
+      swamp vines_77: 776829103
+      swamp vines_31: 955721066
+      swamp vines_84: -1253474571
+      swamp vines_50: -500207339
+      swamp vines_110: -815675347
+      swamp vines_42: 929828264
+      swamp vines_10: 945778662
+      swamp vines_78: 900018744
+      swamp vines_38: 812674722
+      swamp vines_28: -387394947
+      swamp vines_5: 15565529
+      swamp vines_45: -968463563
+      swamp vines_107: -233279840
+      swamp vines_74: -86980524
+      swamp vines_53: -723350655
+      swamp vines_80: -268034384
+      swamp vines_83: -19363186
+      swamp vines_55: -2095042892
+      swamp vines_114: -910123395
+      swamp vines_63: 810120692
+      swamp vines_6: 30529738
+      swamp vines_17: -1524342223
+      swamp vines_79: 931488362
+      swamp vines_57: -1028996818
+      swamp vines_66: 1429316020
+      swamp vines_29: 1051081801
+      swamp vines_108: 1516241702
+      swamp vines_22: 1503519551
+      swamp vines_103: 818027372
+      swamp vines_39: -515590428
+      swamp vines_0: -1076662623
+      swamp vines_36: -897918398
+      swamp vines_67: 1461756142
+      swamp vines_117: -1363822639
+      swamp vines_97: -1921231375
+      swamp vines_4: -92478312
+      swamp vines_112: -1990511576
+      swamp vines_101: 1424908482
+      swamp vines_105: 1226789451
+      swamp vines_62: -765968253
+      swamp vines_14: -707177574
+      swamp vines_92: 1227988971
+      swamp vines_104: 715241307
+      swamp vines_2: -1486352225
+      swamp vines_81: 152223541
+      swamp vines_58: -147240306
+      swamp vines_70: 2144529961
+      swamp vines_19: -379446355
+      swamp vines_52: -1050857636
+      swamp vines_113: -714302395
+      swamp vines_37: 1240830730
+      swamp vines_48: 1322543093
+      swamp vines_119: 1340889366
+      swamp vines_40: -1428275841
+      swamp vines_65: -573470366
+      swamp vines_96: 157969954
+      swamp vines_32: 416114920
+      swamp vines_35: -1443703067
+      swamp vines_115: -598973602
+      swamp vines_54: -1285968150
+      swamp vines_7: -1647920409
+      swamp vines_46: -678302655
+      swamp vines_87: 1942327877
+      swamp vines_59: 1253160414
+      swamp vines_12: 1803642052
+      swamp vines_26: -1625910252
+      swamp vines_90: 1218846416
+      swamp vines_41: 1085500362
+      swamp vines_68: -322571566
+      swamp vines_89: -1664144863
+      swamp vines_56: -637226351
+      swamp vines_49: -1700267
+      swamp vines_21: 1978635743
+      swamp vines_95: 1905268267
+      swamp vines_82: -1205142176
+      swamp vines_1: 1221873606
+      swamp vines_99: -643424660
+      swamp vines_61: 1401561052
+      swamp vines_51: 307435087
+      swamp vines_86: -489117258
+      swamp vines_18: 2097527995
+      swamp vines_106: 515298851
+      swamp vines_34: 10249834
+      swamp vines_64: -570901665
+      swamp vines_72: -2063572418
+      swamp vines_75: -1542439902
+      swamp vines_93: -1937494901
+      swamp vines_25: 1517249953
+      swamp vines_71: -1913851942
+      swamp vines_118: 1963264768
+      swamp vines_102: -1786239570
+      swamp vines_43: -1486993550
+      swamp vines_15: -133578272
+      swamp vines_91: 1387475998
+      swamp vines_116: -321317852
+      swamp vines_33: -1570891364
+      swamp vines_73: -1089132566
+      swamp vines_47: -1131814850
+      swamp vines_109: -476386606
+      swamp vines_76: -407331777
+      swamp vines_16: 241496449
+      swamp vines_3: -929916356
+      swamp vines_8: -1277329586
+      swamp vines_69: -503600378
+      swamp vines_24: 1857274113
+      swamp vines_88: 1544412208
+      swamp vines_20: 1107882455
+      swamp vines_85: -599027654
+      swamp vines_11: 1237262304
+      swamp vines_94: 129536399
+      swamp vines_60: -10258427
+      swamp vines_98: 1470462086
+      swamp vines_100: -1312936578
+      swamp vines_111: 253071394
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
